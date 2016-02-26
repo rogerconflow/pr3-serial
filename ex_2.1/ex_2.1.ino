@@ -24,7 +24,7 @@ void setup()              // run once, when the sketch starts
   Serial.print("c / b = ");       // divideix els valors
   Serial.println(c / b);
 
-  Serial.print("c % b = ");       //calcula laresta quan es divideixen 2 enters
+  Serial.print("c % b = ");       //ens dona el residu de una divisio
   Serial.println(c % b);
   
   Serial.print("b - c = ");       // resta els valors 
