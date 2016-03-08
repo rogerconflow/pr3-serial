@@ -19,9 +19,9 @@ void loop()
   Serial.print(", bin: "); 
   Serial.println(thisByte, BIN);   
 
-  if(thisByte == 126)  // if printed last visible character '~'
+  if(thisByte == 126)  // fins a 126 anira sumant +1 
   { 
-    while(true)
+    while(true)      //quan x =126 parara 
     { 
     } 
   } 
