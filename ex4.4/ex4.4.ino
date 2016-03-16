@@ -1,4 +1,4 @@
-float indicador = 84 ; 
+float indicador = 45 ; 
 
 void setup() 
 { 
